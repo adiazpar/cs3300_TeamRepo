@@ -6,3 +6,6 @@ https://github.com/users/adiazpar/projects/2
 
 Technical Documentation:  
 https://docs.google.com/document/d/123JEYoEDkBlogmvo338722jpRJ3fhInE5PeiMnTaqlI/edit?usp=sharing
+
+Scrum Coach Document:  
+https://docs.google.com/document/d/1tF-SXyR_h67OJ2X7xfR3MK_Fa1LwtXKl1t7LkEpwFk0/edit?usp=drive_link
